@@ -24,8 +24,13 @@ This project encompasses a comprehensive Churn Analysis using SQL Server, Power 
     -Data: Sample datasets used for analysis (ensure no sensitive information is included).
 
     DASHBOARD:
-    1)![image](https://github.com/user-attachments/assets/e414eea8-f10c-4308-99ad-f1b1ff7d7b7e)
+    
+![image](https://github.com/user-attachments/assets/875ed083-d1ef-4556-8f10-51bc7a79bc65)
+
+![image](https://github.com/user-attachments/assets/5d5202e3-9182-487f-8ae1-511f5dc80b7c)
 
 
-    2)![image](https://github.com/user-attachments/assets/fd401afb-4585-48d1-9b21-8762d7837e05)
+
+
+  
 
